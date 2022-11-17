@@ -1,11 +1,21 @@
 更新记录:
 
-V1.2:
+V1.3:
 
-1.新增DreamBooth附属
+1.新增DreamArtist 训练
 
-2.增加部分有用插件
+2.新增embeddings 编辑器
 
-3.增加更新功能
+3.翻译Dreambooth注释，可使用鼠标悬停查看
 
-4.修复部分汉化
+4.更新webui至最新版本
+
+5.修复部分汉化
+
+6.新增模型下载功能
+
+更新包下载链接:
+https://pan.baidu.com/s/1s3bkyDdcrkUnadfE5YQGXQ?pwd=6wxn
+
+使用方法:
+双击打开更新包，使用更新包内stable-diffusion-webui文件覆盖原有webui文件，随后重启即可
