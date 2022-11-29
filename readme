@@ -1,21 +1,23 @@
 更新记录:
 
-V1.3:
+V1.4:
 
-1.新增DreamArtist 训练
+1.更新各类功能
 
-2.新增embeddings 编辑器
+2.新增模型下载功能
 
-3.翻译Dreambooth注释，可使用鼠标悬停查看
+3.新增多线程下载功能
 
-4.更新webui至最新版本
+4.新增 高清修复扩展 自动裁剪 多主题渲染 等插件
 
-5.修复部分汉化
+提示：
 
-6.新增模型下载功能
+此版本将缓存移至WebUI目录，C盘空间不足用户可安装本包后删除C:\users\%username%\.cache
 
-更新包下载链接:
-https://pan.baidu.com/s/1s3bkyDdcrkUnadfE5YQGXQ?pwd=6wxn
+部分扩展默认关闭，请手动前往扩展界面开启。
 
-使用方法:
-双击打开更新包，使用更新包内stable-diffusion-webui文件覆盖原有webui文件，随后重启即可
+本次更新无更新包
+
+完整包下载链接:
+
+http://47.101.153.173/WebUI/V1.4.zip
